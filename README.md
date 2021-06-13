@@ -1,4 +1,4 @@
- #Conway's Game of Life
+ # Conway's Game of Life
  For basic description of game, read about it on following [link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
  
  This code is parallel Pthreads version of this [code](https://www.cs.utexas.edu/users/djimenez/utsa/cs1713-3/c/life.txt). 
@@ -16,7 +16,7 @@
  `./a.out input.txt`
  
  
-input file for the code has been attached. 
+input file for the code has been attached. You can modify input file in the same manner/template if you wish. Make sure that input file is in same directory.
 
 ## A little Code Description
 
